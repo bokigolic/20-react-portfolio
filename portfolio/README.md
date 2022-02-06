@@ -1,5 +1,3 @@
-# 20-react-portfolio
-
 # Bojan Golic
 
 ## Built With
@@ -23,3 +21,11 @@
 👤 **Bojan Golic**
 
 - Github: [@bokigolic](https://github.com/bokigolic)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Learning partners, Standup and morning session team

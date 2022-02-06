@@ -7,8 +7,8 @@ function About() {
             <h2 class="top-title">Bojan Golic</h2>
             <hr></hr>
             <div className="d-flex">
-                <img class="mb-5" id="avatar" src="/docs/Bojan.jpg" alt="Bojan Golic" />
-                <div>
+            <img src={require('../img/Bojan.jpg').default} width="450" height="250" alt="logo" />               
+            <div>
                     <p>
                         Hello, I'm Bojan, I live in Virginia and I'm a fullstack developer
                         I love coding, travel, and reading books.

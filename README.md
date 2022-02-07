@@ -39,4 +39,4 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Learning partners, Standup and morning session team
-![Capture](https://user-images.githubusercontent.com/71577349/152854235-a2a3cf9e-d656-4fe0-9087-729014277752.JPG)
+
